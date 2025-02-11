@@ -41,4 +41,5 @@ class Idea extends Model
          return   $query->orderBy('likes','desc');
         }
     }
+    //change for git
 }
